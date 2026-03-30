@@ -1,8 +1,8 @@
-# OSS-Audit-24BAI10057
+# OSS-Audit-24BAS10057
 
 ##  Student Details
 - **Name:** Gauri Trivedi
-- **Registration Number:** 24BAI10057
+- **Registration Number:** 24BAS10057
 - **Course:** Open Source Software (OSS)  
 - **Project Title:** Open Source Audit  
 - **Chosen Software:** Python  
