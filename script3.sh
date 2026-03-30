@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: Suyash Srivastava
-# Registration Number: 24BAI10278
+# Author: Gauri Trivedi
+# Registration Number: 24BAS10057
 
 DIRS=("/etc" "/var/log" "/home" "/usr/bin" "/tmp")
 
