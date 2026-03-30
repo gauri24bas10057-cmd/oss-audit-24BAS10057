@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script 5: Open Source Manifesto Generator
-# Author: Suyash Srivastava
-# Registration Number: 24BAI10278
+# Author: Gauri Trivedi
+# Registration Number: 24BAS10057
 
 echo "======================================="
 echo "   Open Source Manifesto Generator"
