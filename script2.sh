@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Suyash Srivastava
-# Registration Number: 24BAI10278
+# Author: Gauri Trivedi
+# Registration Number: 24BAS10057
 
 PACKAGE="python3"
 
