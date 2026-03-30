@@ -1,10 +1,10 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Suyash Srivastava
-# Registration Number: 24BAI10278
+# Author: Gauri Trivedi
+# Registration Number: 24BAS10057
 
-STUDENT_NAME="Suyash Srivastava"
-REG_NO="24BAI10278"
+STUDENT_NAME="Gauri Trivedi"
+REG_NO="24BAI10057"
 SOFTWARE_CHOICE="Python"
 
 KERNEL=$(uname -r)
