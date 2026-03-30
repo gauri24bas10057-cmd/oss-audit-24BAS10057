@@ -4,7 +4,7 @@
 # Registration Number: 24BAS10057
 
 STUDENT_NAME="Gauri Trivedi"
-REG_NO="24BAI10057"
+REG_NO="24BAS10057"
 SOFTWARE_CHOICE="Python"
 
 KERNEL=$(uname -r)
